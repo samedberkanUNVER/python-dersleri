@@ -66,7 +66,7 @@ ogrenciler.update({
     number: {
         'ad': name,
         'soyad': surname,
-        'telefon':phone 
+        'telefone':phone 
     }
 })
 
